@@ -6,6 +6,12 @@ The Dataset Contained As (.Xlsx) file  Relevant filters/slicers were provided as
  ![Image Alt](https://github.com/SiddharthMeshram358/Pizza-Powerbi-Dashboard/blob/main/Excel%20pizza%20dataset%20jpj.jpg) 
 
 
+# Connect Dataset To  SSIMS (SQL Server Management Studio)
+
+ ![Image Alt](https://github.com/SiddharthMeshram358/Pizza-Powerbi-Dashboard/blob/main/Pizza%20Dataset%20ssmis1.jpg) 
+
+
+
  # Pizza - Dashboard
  ![Image Alt](https://github.com/SiddharthMeshram358/Pizza-Powerbi-Dashboard/blob/main/Pizza%20Dashbord%20jpj.jpg) 
 
