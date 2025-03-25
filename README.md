@@ -7,6 +7,7 @@ The Dataset Contained As (.Xlsx) file  Relevant filters/slicers were provided as
 
 
 # Connect Dataset To  SSMS (SQL Server Management Studio)
+Connect Excel File To SQL Server Management Studio And Write A Query And Find Out Total Revenue, Total Orders, Total Pizza Sold, Avarage Pizza Sold Etc..
 
  ![Image Alt](https://github.com/SiddharthMeshram358/Pizza-Powerbi-Dashboard/blob/main/Pizza%20Dataset%20ssmis1.jpg) 
 
@@ -17,5 +18,6 @@ The Dataset Contained As (.Xlsx) file  Relevant filters/slicers were provided as
 
 
  # Pizza - Dashboard
+ Create Pizza Dashbord To Understand Stakeholders And Managments
  ![Image Alt](https://github.com/SiddharthMeshram358/Pizza-Powerbi-Dashboard/blob/main/Pizza%20Dashbord%20jpj.jpg) 
 
