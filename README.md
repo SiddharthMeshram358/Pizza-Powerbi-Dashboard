@@ -5,3 +5,7 @@ The Dataset Contained As (.Xlsx) file  Relevant filters/slicers were provided as
 # Excel-Pizza-Dataset
  ![Image Alt](https://github.com/SiddharthMeshram358/Pizza-Powerbi-Dashboard/blob/main/Excel%20pizza%20dataset%20jpj.jpg) 
 
+
+ # Pizza - Dashboard
+ ![Image Alt](https://github.com/SiddharthMeshram358/Pizza-Powerbi-Dashboard/blob/main/Pizza%20Dashbord%20jpj.jpg) 
+
