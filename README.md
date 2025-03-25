@@ -19,5 +19,6 @@ Connect Excel File To SQL Server Management Studio And Write A Query And Find Ou
 
  # Pizza - Dashboard
  Create Pizza Dashbord To Understand Stakeholders And Managments
+ 
  ![Image Alt](https://github.com/SiddharthMeshram358/Pizza-Powerbi-Dashboard/blob/main/Pizza%20Dashbord%20jpj.jpg) 
 
